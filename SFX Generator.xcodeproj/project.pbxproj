@@ -13,6 +13,22 @@
 		6C02650E24DDECEA00922347 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C02650C24DDECEA00922347 /* Main.storyboard */; };
 		6C02651024DDECEB00922347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C02650F24DDECEB00922347 /* Assets.xcassets */; };
 		6C02651324DDECEB00922347 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C02651124DDECEB00922347 /* LaunchScreen.storyboard */; };
+		6C5681B624DE0F7600736627 /* TNGCommunicatorChirp.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681A824DE0F7600736627 /* TNGCommunicatorChirp.m4a */; };
+		6C5681B724DE0F7600736627 /* ComputerData05.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681A924DE0F7600736627 /* ComputerData05.m4a */; };
+		6C5681B824DE0F7600736627 /* SitcomLaughter08.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AA24DE0F7600736627 /* SitcomLaughter08.m4a */; };
+		6C5681B924DE0F7600736627 /* SitcomLaughter02.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AB24DE0F7600736627 /* SitcomLaughter02.m4a */; };
+		6C5681BA24DE0F7600736627 /* SitcomLaughter03.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AC24DE0F7600736627 /* SitcomLaughter03.m4a */; };
+		6C5681BB24DE0F7600736627 /* SitcomLaughter07.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AD24DE0F7600736627 /* SitcomLaughter07.m4a */; };
+		6C5681BC24DE0F7600736627 /* KidsBooing.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AE24DE0F7600736627 /* KidsBooing.m4a */; };
+		6C5681BD24DE0F7600736627 /* SitcomLaughter01.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681AF24DE0F7600736627 /* SitcomLaughter01.m4a */; };
+		6C5681BE24DE0F7600736627 /* TNGDoorChime.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B024DE0F7600736627 /* TNGDoorChime.m4a */; };
+		6C5681BF24DE0F7600736627 /* SitcomLaughter04.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B124DE0F7600736627 /* SitcomLaughter04.m4a */; };
+		6C5681C024DE0F7600736627 /* KidsCheering.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B224DE0F7600736627 /* KidsCheering.m4a */; };
+		6C5681C124DE0F7600736627 /* SitcomLaughter06.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B324DE0F7600736627 /* SitcomLaughter06.m4a */; };
+		6C5681C224DE0F7600736627 /* CheeringCrowdStudio.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B424DE0F7600736627 /* CheeringCrowdStudio.m4a */; };
+		6C5681C324DE0F7600736627 /* SitcomLaughter05.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681B524DE0F7600736627 /* SitcomLaughter05.m4a */; };
+		6C5681C524E1B3EA00736627 /* ChildrenAaaah.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681C424E1B3EA00736627 /* ChildrenAaaah.m4a */; };
+		6C5681C724E3630F00736627 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6C5681C624E3630F00736627 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +40,22 @@
 		6C02650F24DDECEB00922347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C02651224DDECEB00922347 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C02651424DDECEB00922347 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C5681A824DE0F7600736627 /* TNGCommunicatorChirp.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = TNGCommunicatorChirp.m4a; sourceTree = "<group>"; };
+		6C5681A924DE0F7600736627 /* ComputerData05.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = ComputerData05.m4a; sourceTree = "<group>"; };
+		6C5681AA24DE0F7600736627 /* SitcomLaughter08.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter08.m4a; sourceTree = "<group>"; };
+		6C5681AB24DE0F7600736627 /* SitcomLaughter02.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter02.m4a; sourceTree = "<group>"; };
+		6C5681AC24DE0F7600736627 /* SitcomLaughter03.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter03.m4a; sourceTree = "<group>"; };
+		6C5681AD24DE0F7600736627 /* SitcomLaughter07.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter07.m4a; sourceTree = "<group>"; };
+		6C5681AE24DE0F7600736627 /* KidsBooing.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = KidsBooing.m4a; sourceTree = "<group>"; };
+		6C5681AF24DE0F7600736627 /* SitcomLaughter01.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter01.m4a; sourceTree = "<group>"; };
+		6C5681B024DE0F7600736627 /* TNGDoorChime.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = TNGDoorChime.m4a; sourceTree = "<group>"; };
+		6C5681B124DE0F7600736627 /* SitcomLaughter04.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter04.m4a; sourceTree = "<group>"; };
+		6C5681B224DE0F7600736627 /* KidsCheering.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = KidsCheering.m4a; sourceTree = "<group>"; };
+		6C5681B324DE0F7600736627 /* SitcomLaughter06.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter06.m4a; sourceTree = "<group>"; };
+		6C5681B424DE0F7600736627 /* CheeringCrowdStudio.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = CheeringCrowdStudio.m4a; sourceTree = "<group>"; };
+		6C5681B524DE0F7600736627 /* SitcomLaughter05.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = SitcomLaughter05.m4a; sourceTree = "<group>"; };
+		6C5681C424E1B3EA00736627 /* ChildrenAaaah.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = ChildrenAaaah.m4a; sourceTree = "<group>"; };
+		6C5681C624E3630F00736627 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +72,7 @@
 		6C0264FA24DDECEA00922347 = {
 			isa = PBXGroup;
 			children = (
+				6C5681C624E3630F00736627 /* README.md */,
 				6C02650524DDECEA00922347 /* SFX Generator */,
 				6C02650424DDECEA00922347 /* Products */,
 			);
@@ -56,6 +89,7 @@
 		6C02650524DDECEA00922347 /* SFX Generator */ = {
 			isa = PBXGroup;
 			children = (
+				6C5681A724DDFDC400736627 /* Sounds */,
 				6C02650624DDECEA00922347 /* AppDelegate.swift */,
 				6C02650824DDECEA00922347 /* SceneDelegate.swift */,
 				6C02650A24DDECEA00922347 /* ViewController.swift */,
@@ -65,6 +99,28 @@
 				6C02651424DDECEB00922347 /* Info.plist */,
 			);
 			path = "SFX Generator";
+			sourceTree = "<group>";
+		};
+		6C5681A724DDFDC400736627 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				6C5681C424E1B3EA00736627 /* ChildrenAaaah.m4a */,
+				6C5681B424DE0F7600736627 /* CheeringCrowdStudio.m4a */,
+				6C5681A924DE0F7600736627 /* ComputerData05.m4a */,
+				6C5681AE24DE0F7600736627 /* KidsBooing.m4a */,
+				6C5681B224DE0F7600736627 /* KidsCheering.m4a */,
+				6C5681AF24DE0F7600736627 /* SitcomLaughter01.m4a */,
+				6C5681AB24DE0F7600736627 /* SitcomLaughter02.m4a */,
+				6C5681AC24DE0F7600736627 /* SitcomLaughter03.m4a */,
+				6C5681B124DE0F7600736627 /* SitcomLaughter04.m4a */,
+				6C5681B524DE0F7600736627 /* SitcomLaughter05.m4a */,
+				6C5681B324DE0F7600736627 /* SitcomLaughter06.m4a */,
+				6C5681AD24DE0F7600736627 /* SitcomLaughter07.m4a */,
+				6C5681AA24DE0F7600736627 /* SitcomLaughter08.m4a */,
+				6C5681A824DE0F7600736627 /* TNGCommunicatorChirp.m4a */,
+				6C5681B024DE0F7600736627 /* TNGDoorChime.m4a */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +181,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C5681B624DE0F7600736627 /* TNGCommunicatorChirp.m4a in Resources */,
+				6C5681BD24DE0F7600736627 /* SitcomLaughter01.m4a in Resources */,
+				6C5681C024DE0F7600736627 /* KidsCheering.m4a in Resources */,
+				6C5681C324DE0F7600736627 /* SitcomLaughter05.m4a in Resources */,
+				6C5681C224DE0F7600736627 /* CheeringCrowdStudio.m4a in Resources */,
+				6C5681B724DE0F7600736627 /* ComputerData05.m4a in Resources */,
+				6C5681C524E1B3EA00736627 /* ChildrenAaaah.m4a in Resources */,
+				6C5681BA24DE0F7600736627 /* SitcomLaughter03.m4a in Resources */,
+				6C5681B924DE0F7600736627 /* SitcomLaughter02.m4a in Resources */,
 				6C02651324DDECEB00922347 /* LaunchScreen.storyboard in Resources */,
+				6C5681BC24DE0F7600736627 /* KidsBooing.m4a in Resources */,
+				6C5681C124DE0F7600736627 /* SitcomLaughter06.m4a in Resources */,
+				6C5681BB24DE0F7600736627 /* SitcomLaughter07.m4a in Resources */,
+				6C5681C724E3630F00736627 /* README.md in Resources */,
 				6C02651024DDECEB00922347 /* Assets.xcassets in Resources */,
+				6C5681BF24DE0F7600736627 /* SitcomLaughter04.m4a in Resources */,
 				6C02650E24DDECEA00922347 /* Main.storyboard in Resources */,
+				6C5681B824DE0F7600736627 /* SitcomLaughter08.m4a in Resources */,
+				6C5681BE24DE0F7600736627 /* TNGDoorChime.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
