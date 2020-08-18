@@ -3,7 +3,7 @@
 
 ##  Goal
 
-Based on a simple sound generator tutorial app, this Sound FX Generator is a quick way to trigger sound effects on iOS. It plays back some sounds collected from here and there as well as some of the "free to use" sounds that were part of Apple's iLive suite--namely, iMovie.
+Based on a simple sound generator tutorial app, this Sound FX Generator is a quick way to trigger sound effects on iOS. It plays back some sounds collected from here and there as well as some of the "free to use" sounds that were part of Apple's iLife suite--namely, iMovie.
 
 
 ## How it works
